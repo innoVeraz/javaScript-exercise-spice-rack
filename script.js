@@ -1,4 +1,4 @@
-const spiceRack = ["asd", "asd", "qwe"]; //
+const spiceRack = []; //
 
 const shelf = document.querySelector("#spices");
 
