@@ -1,0 +1,33 @@
+body {
+  background-color: aquamarine;
+}
+
+button {
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  padding: 0;
+}
+li {
+  list-style-type: none;
+  padding: 10px;
+}
+li:nth-child(odd) {
+  background: rgb(245, 248, 248);
+}
+
+.list-item {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 400px;
+  width: 100%;
+}
+
+.material-symbols-outlined {
+}
